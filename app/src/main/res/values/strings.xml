@@ -42,4 +42,14 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+
+    <string name="bienvenida">Bienvenid@</string>
+
+    <string name="formulario_hint_nombre">Nombre:</string>
+    <string name="formulario_hint_apellidos">Apellidos:</string>
+    <string name="formulario_hint_nombre_usuario">Nombre de usuario:</string>
+    <string name="formulario_hint_fecha_nacimiento">Fecha de nacimiento:</string>
+    <string name="formulario_hint_codigo_referido">Código:</string>
+    <string name="formulario_etiqueta_codigo_referido">Tengo código de referido</string>
+    <string name="boton_continuar">Continuar</string>
 </resources>
