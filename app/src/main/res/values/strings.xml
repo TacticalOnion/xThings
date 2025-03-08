@@ -43,7 +43,8 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
-    <!-- Strings related to login -->
+    
+    <!-- Strings de login -->
     <string name="prompt_email">Correo</string>
     <string name="profile_image">Imagen de perfil</string>
     <string name="prompt_password">Contraseña</string>
@@ -54,7 +55,8 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="back_button">Regresar</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Strings de register -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="register_text">No tienes cuenta? Registrate</string>
     <string name="forgot_password">Olvidaste tu contraseña? Restablecer</string>
@@ -62,4 +64,14 @@
     <string name="prompt_email2">Correo</string>
     <string name="action_sign_in_short2">Sign in</string>
 
+
+    <!-- Strings de personal info -->
+    <string name="bienvenida">Bienvenid@</string>
+    <string name="formulario_hint_nombre">Nombre:</string>
+    <string name="formulario_hint_apellidos">Apellidos:</string>
+    <string name="formulario_hint_nombre_usuario">Nombre de usuario:</string>
+    <string name="formulario_hint_fecha_nacimiento">Fecha de nacimiento:</string>
+    <string name="formulario_hint_codigo_referido">Código:</string>
+    <string name="formulario_etiqueta_codigo_referido">Tengo código de referido</string>
+    <string name="boton_continuar">Continuar</string>
 </resources>
