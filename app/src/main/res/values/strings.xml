@@ -74,4 +74,8 @@
     <string name="formulario_hint_codigo_referido">Código:</string>
     <string name="formulario_etiqueta_codigo_referido">Tengo código de referido</string>
     <string name="boton_continuar">Continuar</string>
+
+    <!-- Strings de loader -->
+    <string name="view">View</string>
+
 </resources>
