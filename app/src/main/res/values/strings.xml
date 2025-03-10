@@ -78,4 +78,7 @@
     <!-- Strings de loader -->
     <string name="view">View</string>
 
+    <!-- Strings de permission -->
+    <string name="loader">Loader</string>
+
 </resources>
